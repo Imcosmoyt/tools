@@ -18,7 +18,7 @@ where `TERRA_WALLET_ADDRESS` is an address from Terra blockchain which you would
 
 ```
 {
-  "address": "TERRA_WALLET_ADDRESS",
+  "address": "terra107asv7zqgaapgu48u97yvfh5gq9a9wdze0xs59",
   "data": "SOLANA_WALLET_ADDRESS"
 }
 ```
