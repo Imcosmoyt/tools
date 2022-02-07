@@ -6,7 +6,7 @@
 ```
 {
     "get_data": { 
-        "address": "TERRA_WALLET_ADDRESS"
+        "address": "terra107asv7zqgaapgu48u97yvfh5gq9a9wdze0xs59"
     }
 }
 ```
